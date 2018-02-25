@@ -8,5 +8,7 @@ public class JsprojectfordeniskaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JsprojectfordeniskaApplication.class, args);
+
+		System.out.println("KOKOTE");
 	}
 }
